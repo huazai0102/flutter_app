@@ -1,5 +1,7 @@
 # flutter_app
 
+# v6.0.2分支进行修改，稍后合并到主分支
+
 A new Flutter application.
 
 ## Getting Started
